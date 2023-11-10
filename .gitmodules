@@ -1,0 +1,3 @@
+[submodule "discriminating_union"]
+	path = discriminating_union
+	url = ./discriminating_union
